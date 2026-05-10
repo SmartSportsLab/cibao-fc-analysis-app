@@ -1,0 +1,95 @@
+{
+  "matchInfo": {
+    "id": "9emjntndzdektwaa24ltn0l5g",
+    "coverageLevel": "13",
+    "date": "2025-12-02Z",
+    "time": "21:00:00Z",
+    "localDate": "2025-12-02",
+    "localTime": "17:00:00",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "overtimeLength": 15,
+    "lastUpdated": "2025-11-25T23:07:19Z",
+    "description": "Cibao vs Defence Force",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "e6ysw58xmvgh3zwg400zw565s",
+      "name": "Concacaf Caribbean Cup",
+      "knownName": "Concacaf Caribbean Cup",
+      "competitionCode": "CAC",
+      "competitionFormat": "International cup",
+      "country": {
+        "id": "7yfrmldo7ozpwui3n6wfcy1n9",
+        "name": "N/C America"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "bygi47fmsxgbzysjdf9u481lg",
+      "startDate": "2025-08-20Z",
+      "endDate": "2025-12-03Z",
+      "name": "2025"
+    },
+    "stage": {
+      "id": "byyhbwzdahamfb9egzzpzhzpw",
+      "formatId": "ckakxifvsalxwzq21d3lw41jp",
+      "startDate": "2025-11-25Z",
+      "endDate": "2025-12-02Z",
+      "name": "3rd Place Final"
+    },
+    "contestant": [
+      {
+        "id": "6lrtx6i2hsf52v8fh1j43f6cp",
+        "name": "Cibao",
+        "shortName": "Cibao",
+        "officialName": "Cibao FC",
+        "code": "CIB",
+        "position": "home",
+        "country": {
+          "id": "za9wn9847gulllfsey917tmk",
+          "name": "Dominican Republic"
+        }
+      },
+      {
+        "id": "e9m9ysb5c4xf3b6yxmiq5cytx",
+        "name": "Defence Force",
+        "shortName": "Defence",
+        "officialName": "Defence Force FC",
+        "code": "DEF",
+        "position": "away",
+        "country": {
+          "id": "635ed0499golbw7h62vt7g53j",
+          "name": "Trinidad and Tobago"
+        }
+      }
+    ],
+    "venue": {
+      "id": "2k79o6sphf55cbp8ij54sah2h",
+      "neutral": "no",
+      "longName": "Estadio Cibao",
+      "shortName": "Estadio Cibao",
+      "latitude": "19.445403827",
+      "longitude": "-70.679707870"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture",
+      "leg": 2,
+      "relatedMatchId": "9dsx8g8pyc5gxrhe89ys5wr2s",
+      "scores": {
+        "aggregate": {
+          "home": 0,
+          "away": 3
+        }
+      }
+    }
+  }
+}

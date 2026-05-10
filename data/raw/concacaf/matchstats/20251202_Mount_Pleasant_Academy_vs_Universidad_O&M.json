@@ -1,0 +1,95 @@
+{
+  "matchInfo": {
+    "id": "8qt00sa64c500j1ymr9yqaal0",
+    "coverageLevel": "13",
+    "date": "2025-12-03Z",
+    "time": "00:00:00Z",
+    "localDate": "2025-12-02",
+    "localTime": "19:00:00",
+    "numberOfPeriods": 2,
+    "periodLength": 45,
+    "overtimeLength": 15,
+    "lastUpdated": "2025-11-26T13:21:54Z",
+    "description": "Mount Pleasant Academy vs Universidad O&M",
+    "sport": {
+      "id": "289u5typ3vp4ifwh5thalohmq",
+      "name": "Soccer"
+    },
+    "ruleset": {
+      "id": "79plas4983031idr6vw83nuel",
+      "name": "Men"
+    },
+    "competition": {
+      "id": "e6ysw58xmvgh3zwg400zw565s",
+      "name": "Concacaf Caribbean Cup",
+      "knownName": "Concacaf Caribbean Cup",
+      "competitionCode": "CAC",
+      "competitionFormat": "International cup",
+      "country": {
+        "id": "7yfrmldo7ozpwui3n6wfcy1n9",
+        "name": "N/C America"
+      }
+    },
+    "tournamentCalendar": {
+      "id": "bygi47fmsxgbzysjdf9u481lg",
+      "startDate": "2025-08-20Z",
+      "endDate": "2025-12-03Z",
+      "name": "2025"
+    },
+    "stage": {
+      "id": "bz5t75m4utf6axm7v5rww0aok",
+      "formatId": "dg3v7qo5acoprtjj4ozm9meol",
+      "startDate": "2025-11-26Z",
+      "endDate": "2025-12-03Z",
+      "name": "Final"
+    },
+    "contestant": [
+      {
+        "id": "34xm0flo8kh6skplqk4qybmui",
+        "name": "Mount Pleasant Academy",
+        "shortName": "Mt. Pleasant",
+        "officialName": "Mount Pleasant Academy FC",
+        "code": "MTP",
+        "position": "home",
+        "country": {
+          "id": "gimxu1vjwoa2xrecyd9gtyoc",
+          "name": "Jamaica"
+        }
+      },
+      {
+        "id": "cetklu0hgv99381a4y2e8x19z",
+        "name": "Universidad O&M",
+        "shortName": "O&M",
+        "officialName": "Universidad Organización y Métodos",
+        "code": "OYM",
+        "position": "away",
+        "country": {
+          "id": "za9wn9847gulllfsey917tmk",
+          "name": "Dominican Republic"
+        }
+      }
+    ],
+    "venue": {
+      "id": "c4xzw4pu0xeljntmgmnx4h8zk",
+      "neutral": "no",
+      "longName": "Independence Park",
+      "shortName": "Independence Park",
+      "latitude": "18.001162171",
+      "longitude": "-76.772718430"
+    }
+  },
+  "liveData": {
+    "matchDetails": {
+      "periodId": 16,
+      "matchStatus": "Fixture",
+      "leg": 2,
+      "relatedMatchId": "8pzp9uvd4k3wvyegy1r9rwfmc",
+      "scores": {
+        "aggregate": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    }
+  }
+}

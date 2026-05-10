@@ -1,0 +1,54 @@
+# =====================================================
+# Python
+# =====================================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# =====================================================
+# OS / editor cruft
+# =====================================================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# =====================================================
+# Secrets / env vars
+# =====================================================
+.env
+.env.*
+!.env.example
+*.secret
+secrets.toml
+.streamlit/secrets.toml
+
+# =====================================================
+# Streamlit / app data
+# =====================================================
+# Processed JSON files (generated from uploads, should not be in git)
+data/processed/Wyscout/*.json
+data/processed/Wyscout/**/*.json
+# Keep export_summary.json if needed for reference
+!data/processed/Wyscout/export_summary.json
+
+# =====================================================
+# Logs / temp
+# =====================================================
+*.log
+.cursor/
